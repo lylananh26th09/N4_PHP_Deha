@@ -1,0 +1,4 @@
+Tạo một repo chung cho cả nhóm ở trên gitlab/github (tuỳ nhóm quen thuộc với loại nào)
+Mỗi một thành viên trong nhóm kết nối repo local với repo chung của nhóm trên github
+Mỗi thành viên checkout (tạo) 1 branch (nhánh) riêng và thực hành viết chương trình PHP đầu tiên lên branch đó.
+Sau khi hoàn thành viết code PHP lên nhánh của mình, thực hiện đẩy cả branch (nhánh) đó lên github/gitlab.
